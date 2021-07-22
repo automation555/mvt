@@ -5,7 +5,7 @@
     },
     "repositories": [
         {
-            "dataDir": "",
+            "dataDir": "$WORKSPACE/data",
             "repository": {
                 "uid": "c17a967d6f7ace3ccaa3c4640d7df3cf",
                 "projectName": "pythonmvt",
@@ -13,7 +13,7 @@
                     "PYTHON"
                 ],
                 "sources": {
-                    "baseDir": "",
+                    "baseDir": "$WORKSPACE",
                     "exclusions": [
                         "_init_.py",
                         "test"
